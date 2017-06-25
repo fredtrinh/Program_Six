@@ -17,6 +17,23 @@ using namespace std;
 int main ()
 
 {
+    char stringOfText [81];
+
+    cout << "Palindrome Checker" << endl;
+
+    cout << endl;
+
+    cout << "Enter text to see if it forms a palindrome:" << endl;
+
+    cin >> stringOfText
+    cin.getline (stringOfText, 81);
+    if ()
+    {
+
+    } else;
+
+    
+
     return 0;
 }
 
